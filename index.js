@@ -20,4 +20,4 @@ function combineUsers(...args) {
 }
 
 module.exports = combineUsers;
-
+// run with `node server.mjs`
